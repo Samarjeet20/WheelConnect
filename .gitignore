@@ -1,6 +1,6 @@
 .env
 node_modules/
-.credentials
+# .credentials
 .expo/
 dist/
 npm-debug.*
@@ -11,8 +11,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-.configurations
-configurations/
+# .configurations
+# configurations/
 
 # macOS
 .DS_Store
